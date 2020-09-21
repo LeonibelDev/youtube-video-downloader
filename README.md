@@ -10,7 +10,7 @@ Simple graphical interface in python tkinter with input for internet routes to d
 1. pip install
 2. python3 / python index.py
 
-![screen](doc/gui.jpg)
+![screen](doc/gui.png)
 
 ## developer
 
