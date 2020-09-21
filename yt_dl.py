@@ -1,7 +1,7 @@
 import youtube_dl
 import os
 
-save_path = "C:/users/Leonibel/Downloads/videos"
+save_path = "C:/users/*******/Downloads/videos"
 
 yt_obj = {
     'outtmpl':save_path + '/%(title)s.%(ext)s'
